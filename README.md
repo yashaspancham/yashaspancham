@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [www.yashas-dev.com](www.yashas-dev.com)
 
-- 💬 Ask me about **Typescript, Python, React**
+- 💬 Ask me about **Web dev, AWS**
 
 - 📫 How to reach me **yashaspancham@gmail.com**
 
