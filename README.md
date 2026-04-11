@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashas</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [www.yashas-dev.com](www.yashas-dev.com)
+- 👨‍💻 All of my projects are available at [www.yashas-dev.com](https://www.yashas-dev.com)
 
 - 💬 Ask me about **Web dev, AWS**
 
