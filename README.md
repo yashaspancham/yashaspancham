@@ -1,12 +1,37 @@
-<h1 align="center">Hi 👋, I'm Yashas</h1>
-<h3 align="center">A passionate web developer from India</h3>
+# Yashas Pancham K R
 
-- 👨‍💻 All of my projects are available at [www.yashas-dev.com](https://www.yashas-dev.com)
+Automation Engineer based in Bangalore, India.
 
-- 💬 Ask me about **Web dev, AWS**
+I build and deploy cloud-native applications on AWS, work with Python/Django backends, and containerize with Docker, and I'm now expanding into embedded systems and IoT, getting hands-on with an ESP32. Currently automating tests for automotive firmware at Marelli India; previously shipped web projects at Codezyng across healthcare, IT, and e-commerce domains.
 
-- 📫 How to reach me **yashaspancham@gmail.com**
+Holding AWS Solutions Architect Associate + Cloud Practitioner certifications.
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Currently looking for** Cloud/DevOps, Embedded, IoT, Automotive, or Backend roles where I can work with Python, AWS, and Docker in production, or go deeper into edge/device platforms.
+
+---
+
+## Skills
+
+**Cloud & DevOps** — AWS (EC2, Lambda, S3, DynamoDB, API Gateway, CloudFront, Route 53, IAM), Docker, Kubernetes, Terraform, CI/CD, NGINX, Linux
+
+**Backend** — Python, Django, Node.js, Express.js, SQL
+
+**Frontend** — PyQt5, React.js, Next.js, TypeScript, TailwindCSS
+
+---
+
+## Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| Project_Z | Next.js, Django, AWS | Diary web app hosted on EC2, S3, Route 53 |
+| Serverless SaaS | Lambda, API Gateway, DynamoDB | Serverless architecture on AWS |
+| Legal Document Storage | AWS S3, IAM | Secure document storage with lifecycle policies |
+| K8s CRUD App | Docker, Minikube, Kubernetes | Containerized CRUD deployed locally |
+| SaaS Landing Page | Next.js, TailwindCSS, CloudFront | Static site on AWS S3 + CloudFront |
+
+---
+
+[Portfolio](https://www.yashas-dev.com) · [LinkedIn](https://www.linkedin.com/in/yashas-pancham-k-r-b79408249/) · yashaspancham@gmail.com
