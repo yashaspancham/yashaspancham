@@ -1,14 +1,6 @@
 # Yashas Pancham K R
 
-Automation Engineer in Bangalore, building Python automation on AWS.
-
-At Marelli I automate firmware test workflows for automotive MCU + SoC devices — a Python service that polls S3 for new builds and pulls them down automatically, and tooling that cut log collection from 30 minutes to 2. Before that, a year at Codezyng shipping full-stack work with Dockerized deployments on AWS.
-
-AWS Certified Solutions Architect – Associate + Cloud Practitioner.
-
----
-
-**Looking for** AWS Cloud, DevOps, and Backend roles — Bengaluru or remote.
+If it's interesting and Python can touch it, I want to build it.
 
 ---
 
